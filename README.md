@@ -14,3 +14,8 @@ Link: https://onebuffer.com
 
 2. Any: Files, Music & Photos
 App Store: https://apps.apple.com/us/app/any-files-music-photos/id1604309599
+Website: https://onebuffer.com
+
+3. Bione: Crypto validator
+App store: soon
+Website: https://bionelabs.com
