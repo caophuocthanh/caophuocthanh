@@ -17,5 +17,5 @@
 - Website: https://onebuffer.com
 
 ### 3. Bione: Signal Crypto iPhone App
-- https://apps.apple.com/us/app/bione-signal-buy-btc-crypto/id6443679288
+- App Store: https://apps.apple.com/us/app/bione-signal-buy-btc-crypto/id6443679288
 - Website: https://bionelabs.com
