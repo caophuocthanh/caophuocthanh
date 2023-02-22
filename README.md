@@ -10,12 +10,12 @@
 ## Side project
 
 ### 1. onbuffer.com - Show my products
-Link: https://onebuffer.com
+- Link: https://onebuffer.com
 
 ### 2. Any: Files, Music & Photos
-App Store: https://apps.apple.com/us/app/any-files-music-photos/id1604309599
-Website: https://onebuffer.com
+- App Store: https://apps.apple.com/us/app/any-files-music-photos/id1604309599
+- Website: https://onebuffer.com
 
 ### 3. Bione: Signal Crypto iPhone App
-https://apps.apple.com/us/app/bione-signal-buy-btc-crypto/id6443679288
-Website: https://bionelabs.com
+- https://apps.apple.com/us/app/bione-signal-buy-btc-crypto/id6443679288
+- Website: https://bionelabs.com
