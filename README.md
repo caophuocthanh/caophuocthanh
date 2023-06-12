@@ -19,3 +19,7 @@
 ### 3. Bione: Signal Crypto iPhone App
 - App Store: https://apps.apple.com/us/app/bione-signal-buy-btc-crypto/id6443679288
 - Website: https://bionelabs.com
+
+[![caophuocthanh's GitHub stats](https://github-readme-stats.vercel.app/api?username=caophuocthanh)](https://github.com/caophuocthanh/caophuocthanh)
+
+![caophuocthanh](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caophuocthanh&theme=vue)
