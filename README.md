@@ -20,10 +20,6 @@
 - App Store: https://apps.apple.com/us/app/bione-signal-buy-btc-crypto/id6443679288
 - Website: https://bionelabs.com
 
-[![caophuocthanh's GitHub stats](https://github-readme-stats.vercel.app/api?username=caophuocthanh)](https://github.com/caophuocthanh/caophuocthanh)
-
-![caophuocthanh](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=caophuocthanh&theme=vue&utcOffset=8)
-
 <a href="https://github.com/caophuocthanh">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=caophuocthanh&count_private=true&show_icons=true&bg_color=00000000&text_color=2B65CF&icon_color=2B65CF&title_color=2B65CF&hide_border=true" />
 </a>
