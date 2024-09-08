@@ -19,7 +19,7 @@
 ## Side project - Portfolio - What can I do?
 Working on personal projects not only helps me maintain a continuous learning habit and sharpen my programming skills, but also deepens my understanding of product development thinking. In the ever-evolving world of technology, programming languages change rapidly—what's relevant today may be outdated tomorrow. Therefore, staying updated, practicing regularly, and strengthening core fundamentals are crucial to me. This approach ensures that I not only keep pace with industry advancements but also contribute creatively to the field.
 
-### 1. onbuffer.com - Show my products
+### 1. Onbuffer.com - Showcase My Products
 - Link: https://onebuffer.com
 
 ### 2. Any - File Manager & Viewer
